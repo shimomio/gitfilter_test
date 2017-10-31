@@ -1,4 +1,4 @@
 module.exports = {
-  hoge: '危険な情報',
+  hoge: : 'your id or secret'
   huga: '安全な情報'
 };
